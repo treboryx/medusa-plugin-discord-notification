@@ -14,7 +14,7 @@ Receive order notifications in Discord via a webhook for your Medusa store.
 
 ### Preview
 
-_Not Applicable_
+![Preview](https://i.imgur.com/aknNyZN.png)
 
 ## Set up this plugin
 
